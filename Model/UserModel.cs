@@ -12,6 +12,5 @@ namespace Model
         public string matkhau { get; set; }
         public string role { get; set; }
         public string token { get; set; }
-        public string vd1 { get; set; }
     }
 }
